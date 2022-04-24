@@ -1,4 +1,5 @@
 id_bionic
 private_key
+/bionic/.vagrant/machines
 *.pub
 *.log
